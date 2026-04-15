@@ -16,4 +16,7 @@ body {
     color: white;
   }
   
-  
+  li {
+    margin: 10px;
+    cursor: pointer;
+    }
